@@ -4,7 +4,7 @@ pipeline{
 		stage(build){
 			steps{
 				echo 'building application...'
-				bat 'pwd'
+				bat 'dir'
 			}
 		
 		}
