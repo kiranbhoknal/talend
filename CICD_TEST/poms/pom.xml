@@ -9,9 +9,9 @@
   <name>CICD_TEST Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>code/routines</module>
     <module>jobs/process/test_0.1</module>
     <module>jobs/process/newtest_0.1</module>
+    <module>code/routines</module>
   </modules>
   <properties>
     <talend.project.name>CICD_TEST</talend.project.name>
